@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<dragons>
+	<object>
+		<id>7</id>
+		<name>Drogon</name>
+		<coordinates>4;7.0</coordinates>
+		<creationDate>Fri May 23 11:16:44 MSK 2025</creationDate>
+		<age>88</age>
+		<description>Чёрный дракон с красными отметинами</description>
+		<wingspan>90.0</wingspan>
+		<character>CHAOTIC</character>
+		<cave>90.0</cave>
+	</object>
+	<object>
+		<id>8</id>
+		<name>abcdef</name>
+		<coordinates>4;17.0</coordinates>
+		<creationDate>Sun May 25 12:33:26 MSK 2025</creationDate>
+		<age>58</age>
+		<description>frfrfr</description>
+		<wingspan>90.0</wingspan>
+		<character>EVIL</character>
+		<cave>1.0</cave>
+	</object>
+</dragons>

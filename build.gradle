@@ -1,0 +1,34 @@
+plugins {
+    id 'java'
+}
+
+subprojects {
+    apply plugin: 'java'
+    repositories {
+        mavenCentral()
+    }
+}
+
+tasks.register('runServer', JavaExec) {
+    dependsOn ':server:build'
+    classpath = project(':server').sourceSets.main.runtimeClasspath
+    mainClass = 'org.Server'
+
+    doFirst {
+        def xmlPath = project.rootDir.toPath()
+                .relativize(file('coll.xml').toPath())
+                .toString()
+        args xmlPath
+    }
+}
+
+tasks.register('runClient') {
+    dependsOn ':client:build'
+    doLast {
+        def classpath = project(':client').sourceSets.main.runtimeClasspath.asPath
+        new ProcessBuilder(
+                'cmd', '/c', 'start', 'cmd', '/k',
+                "java -cp \"${classpath}\" org.Client"
+        ).directory(project.rootDir).start()
+    }
+}

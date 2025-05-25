@@ -1,0 +1,15 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+
+rootProject.name = 'l6'
+
+
+include 'server'
+include 'client'
+include 'general'
+
