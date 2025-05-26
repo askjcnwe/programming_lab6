@@ -1,25 +1,36 @@
 <?xml version="1.0"?>
 <dragons>
 	<object>
-		<id>7</id>
-		<name>Drogon</name>
-		<coordinates>4;7.0</coordinates>
-		<creationDate>Fri May 23 11:16:44 MSK 2025</creationDate>
-		<age>88</age>
-		<description>Чёрный дракон с красными отметинами</description>
-		<wingspan>90.0</wingspan>
-		<character>CHAOTIC</character>
-		<cave>90.0</cave>
+		<id>9</id>
+		<name>Drago</name>
+		<coordinates>63;79.0</coordinates>
+		<creationDate>Mon May 26 15:30:34 MSK 2025</creationDate>
+		<age>345</age>
+		<description>dragon with bioluminescent spines</description>
+		<wingspan>100.0</wingspan>
+		<character>WISE</character>
+		<cave>765.0</cave>
 	</object>
 	<object>
-		<id>8</id>
-		<name>abcdef</name>
-		<coordinates>4;17.0</coordinates>
-		<creationDate>Sun May 25 12:33:26 MSK 2025</creationDate>
-		<age>58</age>
-		<description>frfrfr</description>
+		<id>10</id>
+		<name>Boris</name>
+		<coordinates>100;762.0</coordinates>
+		<creationDate>Mon May 26 15:32:45 MSK 2025</creationDate>
+		<age>197</age>
+		<description>abcdefg</description>
 		<wingspan>90.0</wingspan>
-		<character>EVIL</character>
-		<cave>1.0</cave>
+		<character>CHAOTIC</character>
+		<cave>3.0</cave>
+	</object>
+	<object>
+		<id>11</id>
+		<name>gtrfhf</name>
+		<coordinates>1;2.0</coordinates>
+		<creationDate>Mon May 26 15:34:39 MSK 2025</creationDate>
+		<age>3</age>
+		<description>4</description>
+		<wingspan>5.0</wingspan>
+		<character>GOOD</character>
+		<cave>6.0</cave>
 	</object>
 </dragons>
