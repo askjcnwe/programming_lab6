@@ -3,32 +3,34 @@
 
 ### Скриншоты с выполнением реализованных команд
 1) show
-	![[Pasted image 20250526151805.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526151805.png?raw=true)
+	
 2) add
-	![[Pasted image 20250526151934.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526151934.png?raw=true)
+	
 3) filter_by_decription
-	![[Pasted image 20250526152306.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526152306.png?raw=true)
 4) filter_contains_name
-	![[Pasted image 20250526152334.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526152334.png?raw=true)
 5) info
-	![[Pasted image 20250526152401.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526152401.png?raw=true)
 6) remove_by_description
-	![[Pasted image 20250526152520.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526152520.png?raw=true)
 7) remove_id
-	![[Pasted image 20250526152609.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526152609.png?raw=true)
 8) remove_index
-	![[Pasted image 20250526152705.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526152705.png?raw=true)
 9) remove_lower
-	![[Pasted image 20250526152802.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526152802.png?raw=true)
 10) shuffle
-	![[Pasted image 20250526153345.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526153345.png?raw=true)
 11) update_id
-	![[Pasted image 20250526153534.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526153534.png?raw=true)
 12) save
 	Вызывается при выполнении команды exit на клиенте
-	![[Pasted image 20250526153644.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526153644.png?raw=true)
 	Изначальная/итоговая коллекции:
-	![[5.png]]
-	![[Pasted image 20250526153848.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/5.png?raw=true)
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526153848.png?raw=true)
 13) clear
-	![[Pasted image 20250526154345.png]]
+	![](https://github.com/askjcnwe/programming_lab6/blob/main/images/Pastedimage20250526154345.png?raw=true)
